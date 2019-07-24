@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Misaki Nishimoto</title>
-    <link>https://mini0621.github.io/</link>
-    <description>Recent content on Misaki Nishimoto</description>
+    <title>Data_sciences on Misaki Nishimoto</title>
+    <link>https://mini0621.github.io/data_science/</link>
+    <description>Recent content in Data_sciences on Misaki Nishimoto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 16 Jul 2019 15:51:01 +0200</lastBuildDate>
     
-	<atom:link href="https://mini0621.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mini0621.github.io/data_science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,25 +21,6 @@
       <description>https://www.kaggle.com/c/digit-recognizer
 data import pandas as pd train_path = &amp;#39;./train.csv&amp;#39; train_data = pd.read_csv(train_path) #check #train_data.describe() separate the data into train, cross validation, and test set train: 60%, cv: 20%, test: 20%
 y = train_data.iloc[0:25200,0] cv_y = train_data.iloc[25200:33600,0] test_y = train_data.iloc[33600:42000,0] y.describe() count 25200.000000 mean 4.447063 std 2.881273 min 0.000000 25% 2.000000 50% 4.000000 75% 7.000000 max 9.000000 Name: label, dtype: float64  X = train_data.iloc[0:25200,1:785] cv_x = train_data.iloc[25200:33600,1:785] test_x = train_data.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://mini0621.github.io/about/</link>
-      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mini0621.github.io/about/</guid>
-      <description>Currently, Misaki Nishimoto is a student at 42 Paris, PBL(project based learning) computer engineering school.
-Know more about 42 https://www.42.fr/</description>
-    </item>
-    
-    <item>
-      <title>Web Developement</title>
-      <link>https://mini0621.github.io/web_development/web_development/</link>
-      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mini0621.github.io/web_development/web_development/</guid>
-      <description> coming soon </description>
     </item>
     
   </channel>
